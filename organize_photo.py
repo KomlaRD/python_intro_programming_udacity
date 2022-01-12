@@ -1,5 +1,6 @@
 # Get a list of the file names
 
+import os
 # Extract the place names from the file names
 
 # Make a directory for each place name
