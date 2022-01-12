@@ -2,7 +2,7 @@
 
 import os
 
-originals = os.listdir()
+originals = os.listdir("Photos")
 
 print (originals)
 
